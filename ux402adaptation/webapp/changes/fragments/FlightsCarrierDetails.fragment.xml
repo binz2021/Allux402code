@@ -1,0 +1,14 @@
+<!-- Use stable and unique id's!-->
+<core:FragmentDefinition xmlns:core='sap.ui.core'
+xmlns="sap.m">
+<ObjectHeader title="{AirLineName} Thi is From Extension" 
+titleHref="{URL}" 
+numberUnit="{LocalCurrencyCode}" 
+number=" " 
+id="idCarrierInfoExt">
+<attributes>
+<ObjectAttribute id="idAirLineIDExt" text="{AirLineID} EX"/>
+<ObjectAttribute id="idURLExt" text="{URL}"/>
+</attributes>
+</ObjectHeader>
+</core:FragmentDefinition>

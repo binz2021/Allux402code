@@ -1,0 +1,21 @@
+<core:FragmentDefinition xmlns="sap.m" xmlns:core="sap.ui.core"
+xmlns:layout="sap.ui.layout">
+<layout:VerticalLayout>
+    <FlexBox alignItems="Center" justifyContent="Center">
+        <core:Icon src="sap-icon://flight"
+            class="sapUiTinyMarginEnd" press="_submitPressed"/>
+        <Text text ="{$this>/planeType}"/>
+    </FlexBox>
+    <FlexBox alignItems="Center" justifyContent="Center">
+        <core:Icon src="sap-icon://person-placeholder"
+            class="sapUiTinyMarginEnd" />
+        <Text text ="{$this>/seatsMax}"/>
+    </FlexBox>
+    <FlexBox alignItems="Center" justifyContent="Center">
+        <core:Icon src="sap-icon://suitcase"
+            class="sapUiTinyMarginEnd" />
+        <Text text ="{$this>/seatsOcc}"/>
+    </FlexBox>
+</layout:VerticalLayout>
+</core:FragmentDefinition>
+

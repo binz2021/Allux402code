@@ -1,0 +1,42 @@
+{
+	"fileName": "id_1645214486766_84_addXMLAtExtensionPoint",
+	"fileType": "change",
+	"changeType": "addXMLAtExtensionPoint",
+	"moduleName": "",
+	"reference": "customer.student01.ux402adaptation",
+	"packageName": "$TMP",
+	"content": {
+		"fragmentPath": "fragments/FlightsCarrierDetails.fragment.xml"
+	},
+	"selector": {
+		"name": "carrierdetails",
+		"viewSelector": {
+			"id": "flights",
+			"idIsLocal": true
+		}
+	},
+	"layer": "CUSTOMER_BASE",
+	"texts": {},
+	"namespace": "apps/customer.student01.ux402adaptation/changes/",
+	"projectId": "customer.student01.ux402adaptation",
+	"creation": "2022-02-18T20:01:27.285Z",
+	"originalLanguage": "EN",
+	"support": {
+		"generator": "Change.createInitialFileContent",
+		"service": "",
+		"user": "",
+		"sapui5Version": "1.78.13",
+		"sourceChangeFileName": "",
+		"compositeCommand": "id_1645214486767_85_composite"
+	},
+	"oDataInformation": {},
+	"dependentSelector": {},
+	"validAppVersions": {
+		"creation": "1.0.0",
+		"from": "1.0.0",
+		"to": "1.0.0"
+	},
+	"jsOnly": false,
+	"variantReference": "",
+	"appDescriptorChange": false
+}

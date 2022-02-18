@@ -1,0 +1,6 @@
+<mvc:View controllerName="com.sap.training.ux402.ux402_composite.controller.Main" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+	<Shell id="shell">
+		<App id="app">
+		</App>
+	</Shell>
+</mvc:View>

@@ -1,0 +1,29 @@
+<mvc:View
+    controllerName="student01.com.sap.training.ux402.fullscreen.ux402fullscreen.controller.Carrier"
+    xmlns:mvc="sap.ui.core.mvc"
+    displayBlock="true"
+    xmlns="sap.m"
+>
+  <Page id="pg1" title="{i18n>overviewPageTitle}">
+    <content>
+      <Table id="t1" items="{/CarrierCollection}">
+        <columns>
+          <Column id="cl1" minScreenWidth="Tablet" demandPopin="true">
+            <Text id="tx1" text="{i18n>columnId}"/>
+          </Column>
+           <Column id="cl2" minScreenWidth="Tablet" demandPopin="true">
+            <Text id="tx2" text="{i18n>columnName}"/>
+          </Column>
+        </columns>
+        <items>
+          <ColumnListItem id="CLIT1" press="onPress" type="Navigation">
+            <cells>
+              <ObjectIdentifier id="objdid11" title="{AirLineID}"/>
+              <Text id="tx3" text="{AirLineName}"/>
+            </cells>
+          </ColumnListItem>
+        </items>
+      </Table>
+    </content>
+  </Page>
+</mvc:View>

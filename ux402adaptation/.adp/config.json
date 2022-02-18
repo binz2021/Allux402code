@@ -1,0 +1,11 @@
+{
+  "componentname": "student01.com.sap.training.ux402.fullscreen.ux402fullscreen",
+  "safeMode": false,
+  "appvariant": "ux402adaptation",
+  "layer": "CUSTOMER_BASE",
+  "sourceSystem": "S4D_100_BINZ",
+  "isOVPApp": false,
+  "isFioriElement": false,
+  "environment": "ABAP",
+  "ui5Version": "1.78.15"
+}

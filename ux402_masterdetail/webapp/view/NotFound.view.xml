@@ -1,0 +1,12 @@
+<mvc:View
+    controllerName="student01.com.sap.training.ux402.masterdetail.ux402masterdetail.controller.NotFound"
+    xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m">
+<MessagePage
+title="{i18n>notFoundTitle}"
+text="{i18n>notFoundText}"
+description=""
+showNavButton="{device>/system/phone}"
+navButtonPress="onNavBack">
+</MessagePage>
+
+</mvc:View>

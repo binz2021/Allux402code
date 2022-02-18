@@ -1,0 +1,348 @@
+{
+    "d": {
+        "results": [
+            {
+                "__metadata": {
+                    "id": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('AA')",
+                    "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('AA')",
+                    "type": "RMTSAMPLEFLIGHT_2.Carrier",
+                    "content_type": "text/html",
+                    "media_src": "http://www.aa.com"
+                },
+                "AirLineID": "AA",
+                "AirLineName": "American Airlines flights",
+                "LocalCurrencyCode": "USD",
+                "URL": "http://www.aa.com",
+                "MimeType": "text/html",
+                "CarrierFlights": {
+                    "__deferred": {
+                        "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('AA')/CarrierFlights"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('AC')",
+                    "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('AC')",
+                    "type": "RMTSAMPLEFLIGHT_2.Carrier",
+                    "content_type": "text/html",
+                    "media_src": "http://www.aircanada.ca"
+                },
+                "AirLineID": "AC",
+                "AirLineName": "Air Canada From Canada",
+                "LocalCurrencyCode": "CAD",
+                "URL": "http://www.aircanada.ca",
+                "MimeType": "text/html",
+                "CarrierFlights": {
+                    "__deferred": {
+                        "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('AC')/CarrierFlights"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('AF')",
+                    "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('AF')",
+                    "type": "RMTSAMPLEFLIGHT_2.Carrier",
+                    "content_type": "text/html",
+                    "media_src": "http://www.airfrance.fr"
+                },
+                "AirLineID": "AF",
+                "AirLineName": "Air France",
+                "LocalCurrencyCode": "EUR",
+                "URL": "http://www.airfrance.fr",
+                "MimeType": "text/html",
+                "CarrierFlights": {
+                    "__deferred": {
+                        "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('AF')/CarrierFlights"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('AZ')",
+                    "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('AZ')",
+                    "type": "RMTSAMPLEFLIGHT_2.Carrier",
+                    "content_type": "text/html",
+                    "media_src": "http://www.alitalia.it"
+                },
+                "AirLineID": "AZ",
+                "AirLineName": "Alitalia",
+                "LocalCurrencyCode": "EUR",
+                "URL": "http://www.alitalia.it",
+                "MimeType": "text/html",
+                "CarrierFlights": {
+                    "__deferred": {
+                        "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('AZ')/CarrierFlights"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('BA')",
+                    "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('BA')",
+                    "type": "RMTSAMPLEFLIGHT_2.Carrier",
+                    "content_type": "text/html",
+                    "media_src": "http://www.british-airways.com"
+                },
+                "AirLineID": "BA",
+                "AirLineName": "British Airways",
+                "LocalCurrencyCode": "GBP",
+                "URL": "http://www.british-airways.com",
+                "MimeType": "text/html",
+                "CarrierFlights": {
+                    "__deferred": {
+                        "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('BA')/CarrierFlights"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('FJ')",
+                    "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('FJ')",
+                    "type": "RMTSAMPLEFLIGHT_2.Carrier",
+                    "content_type": "text/html",
+                    "media_src": "http://www.airpacific.com"
+                },
+                "AirLineID": "FJ",
+                "AirLineName": "Air Pacific",
+                "LocalCurrencyCode": "USD",
+                "URL": "http://www.airpacific.com",
+                "MimeType": "text/html",
+                "CarrierFlights": {
+                    "__deferred": {
+                        "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('FJ')/CarrierFlights"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('CO')",
+                    "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('CO')",
+                    "type": "RMTSAMPLEFLIGHT_2.Carrier",
+                    "content_type": "text/html",
+                    "media_src": "http://www.continental.com"
+                },
+                "AirLineID": "CO",
+                "AirLineName": "Continental Airlines",
+                "LocalCurrencyCode": "USD",
+                "URL": "http://www.continental.com",
+                "MimeType": "text/html",
+                "CarrierFlights": {
+                    "__deferred": {
+                        "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('CO')/CarrierFlights"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('DL')",
+                    "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('DL')",
+                    "type": "RMTSAMPLEFLIGHT_2.Carrier",
+                    "content_type": "text/html",
+                    "media_src": "http://www.delta-air.com"
+                },
+                "AirLineID": "DL",
+                "AirLineName": "Delta Airlines",
+                "LocalCurrencyCode": "USD",
+                "URL": "http://www.delta-air.com",
+                "MimeType": "text/html",
+                "CarrierFlights": {
+                    "__deferred": {
+                        "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('DL')/CarrierFlights"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('AB')",
+                    "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('AB')",
+                    "type": "RMTSAMPLEFLIGHT_2.Carrier",
+                    "content_type": "text/html",
+                    "media_src": "http://www.airberlin.de"
+                },
+                "AirLineID": "AB",
+                "AirLineName": "Air Berlin",
+                "LocalCurrencyCode": "EUR",
+                "URL": "http://www.airberlin.de",
+                "MimeType": "text/html",
+                "CarrierFlights": {
+                    "__deferred": {
+                        "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('AB')/CarrierFlights"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('LH')",
+                    "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('LH')",
+                    "type": "RMTSAMPLEFLIGHT_2.Carrier",
+                    "content_type": "text/html",
+                    "media_src": "http://www.lufthansa.com"
+                },
+                "AirLineID": "LH",
+                "AirLineName": "Lufthansa",
+                "LocalCurrencyCode": "EUR",
+                "URL": "http://www.lufthansa.com",
+                "MimeType": "text/html",
+                "CarrierFlights": {
+                    "__deferred": {
+                        "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('LH')/CarrierFlights"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('NG')",
+                    "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('NG')",
+                    "type": "RMTSAMPLEFLIGHT_2.Carrier",
+                    "content_type": "text/html",
+                    "media_src": "http://www.laudaair.com"
+                },
+                "AirLineID": "NG",
+                "AirLineName": "Lauda Air",
+                "LocalCurrencyCode": "EUR",
+                "URL": "http://www.laudaair.com",
+                "MimeType": "text/html",
+                "CarrierFlights": {
+                    "__deferred": {
+                        "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('NG')/CarrierFlights"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('JL')",
+                    "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('JL')",
+                    "type": "RMTSAMPLEFLIGHT_2.Carrier",
+                    "content_type": "text/html",
+                    "media_src": "http://www.jal.co.jp"
+                },
+                "AirLineID": "JL",
+                "AirLineName": "Japan Airlines",
+                "LocalCurrencyCode": "JPY",
+                "URL": "http://www.jal.co.jp",
+                "MimeType": "text/html",
+                "CarrierFlights": {
+                    "__deferred": {
+                        "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('JL')/CarrierFlights"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('NW')",
+                    "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('NW')",
+                    "type": "RMTSAMPLEFLIGHT_2.Carrier",
+                    "content_type": "text/html",
+                    "media_src": "http://www.nwa.com"
+                },
+                "AirLineID": "NW",
+                "AirLineName": "Northwest Airlines",
+                "LocalCurrencyCode": "USD",
+                "URL": "http://www.nwa.com",
+                "MimeType": "text/html",
+                "CarrierFlights": {
+                    "__deferred": {
+                        "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('NW')/CarrierFlights"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('QF')",
+                    "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('QF')",
+                    "type": "RMTSAMPLEFLIGHT_2.Carrier",
+                    "content_type": "text/html",
+                    "media_src": "http://www.qantas.com.au"
+                },
+                "AirLineID": "QF",
+                "AirLineName": "Qantas Airways",
+                "LocalCurrencyCode": "AUD",
+                "URL": "http://www.qantas.com.au",
+                "MimeType": "text/html",
+                "CarrierFlights": {
+                    "__deferred": {
+                        "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('QF')/CarrierFlights"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('SA')",
+                    "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('SA')",
+                    "type": "RMTSAMPLEFLIGHT_2.Carrier",
+                    "content_type": "text/html",
+                    "media_src": "http://www.saa.co.za"
+                },
+                "AirLineID": "SA",
+                "AirLineName": "South African Air.",
+                "LocalCurrencyCode": "ZAR",
+                "URL": "http://www.saa.co.za",
+                "MimeType": "text/html",
+                "CarrierFlights": {
+                    "__deferred": {
+                        "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('SA')/CarrierFlights"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('SQ')",
+                    "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('SQ')",
+                    "type": "RMTSAMPLEFLIGHT_2.Carrier",
+                    "content_type": "text/html",
+                    "media_src": "http://www.singaporeair.com"
+                },
+                "AirLineID": "SQ",
+                "AirLineName": "Singapore Airlines",
+                "LocalCurrencyCode": "SGD",
+                "URL": "http://www.singaporeair.com",
+                "MimeType": "text/html",
+                "CarrierFlights": {
+                    "__deferred": {
+                        "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('SQ')/CarrierFlights"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('SR')",
+                    "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('SR')",
+                    "type": "RMTSAMPLEFLIGHT_2.Carrier",
+                    "content_type": "text/html",
+                    "media_src": "http://www.swiss.com"
+                },
+                "AirLineID": "SR",
+                "AirLineName": "Swiss",
+                "LocalCurrencyCode": "CHF",
+                "URL": "http://www.swiss.com",
+                "MimeType": "text/html",
+                "CarrierFlights": {
+                    "__deferred": {
+                        "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('SR')/CarrierFlights"
+                    }
+                }
+            },
+            {
+                "__metadata": {
+                    "id": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('UA')",
+                    "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('UA')",
+                    "type": "RMTSAMPLEFLIGHT_2.Carrier",
+                    "content_type": "text/html",
+                    "media_src": "http://www.ual.com"
+                },
+                "AirLineID": "UA",
+                "AirLineName": "United Airlines",
+                "LocalCurrencyCode": "USD",
+                "URL": "http://www.ual.com",
+                "MimeType": "text/html",
+                "CarrierFlights": {
+                    "__deferred": {
+                        "uri": "http://s4dhost.wdf.sap.corp:8011/sap/opu/odata/IWBEP/RMTSAMPLEFLIGHT_2/CarrierCollection('UA')/CarrierFlights"
+                    }
+                }
+            }
+        ]
+    }
+}
